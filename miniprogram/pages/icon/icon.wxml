@@ -1,0 +1,10 @@
+<!--miniprogram/pages/icon/icon.wxml-->
+<icon type="success" size="100" color="green"></icon>
+<icon type="success_no_circle" size="100" color="green"></icon>
+<icon type="info" size="100"></icon>
+<icon type="warn" size="100"></icon>
+<icon type="waiting" size="100"></icon>
+<icon type="cancel" size="100"></icon>
+<icon type="download" size="100"></icon>
+<icon type="search" size="100"></icon>
+<icon type="clear" size="100"></icon>
