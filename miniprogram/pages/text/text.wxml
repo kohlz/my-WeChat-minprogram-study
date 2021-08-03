@@ -1,0 +1,9 @@
+<!--miniprogram/pages/test/text.wxml-->
+<text user-select="true">hello world</text>
+<text space="emsp">hello   world</text>
+<text space="ensp">hello   world</text>
+<text space="nbsp">hello   world</text>
+<text decode="true">&nbsp;</text>
+<text>&nbsp;</text>
+<text decode="true">&lt; &gt; &amp; &apos; &ensp; &emsp;</text>
+<text>&lt; &gt; &amp; &apos; &ensp; &emsp;</text>
