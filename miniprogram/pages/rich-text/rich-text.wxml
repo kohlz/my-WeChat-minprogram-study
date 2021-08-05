@@ -1,0 +1,5 @@
+<!--miniprogram/pages/rich-text/rich-text.wxml-->
+<rich-text nodes="<h1>hello world</h1>"></rich-text>
+<rich-text nodes="<h2>Hello world</h2>"></rich-text>
+<rich-text nodes="<p><b>hello world</b></p>"></rich-text>
+<rich-text nodes="<p style='text-align: center;'>hello world</p>"></rich-text>
