@@ -1,0 +1,16 @@
+<!--miniprogram/pages/movable-area/movable-area.wxml-->
+<movable-area class="movable-area">
+  <movable-view class="movable-view" direction="all" x="0" y="0" inertia="true" out-of-bounds="true" damping="80" friction="10" scale-min="0.1" scale-max="10" scale="true"></movable-view>
+</movable-area>
+
+<movable-area class="movable-area">
+  <movable-view class="movable-view" direction="vertical" x="0" y="0" inertia="true" out-of-bounds="true" damping="80" friction="10" scale-min="0.1" scale-max="10" scale="true"></movable-view>
+</movable-area>
+
+<movable-area class="movable-area">
+  <movable-view class="movable-view" direction="horizontal" x="0" y="0" inertia="true" out-of-bounds="true" damping="80" friction="10" scale-min="0.1" scale-max="10" scale="true"></movable-view>
+</movable-area>
+
+<movable-area class="movable-area">
+  <movable-view class="movable-view" direction="none" x="0" y="0" inertia="true" out-of-bounds="true" damping="80" friction="10" scale-min="0.1" scale-max="10" scale="true"></movable-view>
+</movable-area>

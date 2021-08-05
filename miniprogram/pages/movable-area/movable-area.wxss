@@ -1,0 +1,12 @@
+/* miniprogram/pages/movable-area/movable-area.wxss */
+.movable-area {
+  width: 500rpx;
+  height: 500rpx;
+  background-color: grey;
+}
+
+.movable-view {
+  width: 100rpx;
+  height: 100rpx;
+  background-color: green;
+}
