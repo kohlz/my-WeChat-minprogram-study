@@ -1,0 +1,6 @@
+<!--miniprogram/pages/progress/progress.wxml-->
+<progress percent="20" show-info="true" border-radius="200"></progress>
+<progress percent="40" show-info="true" font-size="64"></progress>
+<progress percent="60" show-info="ture" stroke-width="12"></progress>
+<progress percent="80" show-info="true" activeColor="red" backgroundColor="green" active="true" duration="50"></progress>
+<progress percent="100" show-info="true" active="true" active-mode="forwards" duration="10"></progress>
