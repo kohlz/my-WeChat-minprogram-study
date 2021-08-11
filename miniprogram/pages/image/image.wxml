@@ -1,0 +1,15 @@
+<!--miniprogram/pages/image/image.wxml-->
+<image src="../../images/2.jpg" mode="scaleToFill"></image>
+<image src="../../images/2.jpg" mode="aspectFit"></image>
+<image src="../../images/2.jpg" mode="aspectFill"></image>
+<image src="../../images/2.jpg" mode="widthFix"></image>
+<image src="../../images/2.jpg" mode="heightFix"></image>
+<image src="../../images/2.jpg" mode="top"></image>
+<image src="../../images/2.jpg" mode="bottom"></image>
+<image src="../../images/2.jpg" mode="center"></image>
+<image src="../../images/2.jpg" mode="left"></image>
+<image src="../../images/2.jpg" mode="right"></image>
+<image src="../../images/2.jpg" mode="topleft"></image>
+<image src="../../images/2.jpg" mode="topright"></image>
+<image src="../../images/2.jpg" mode="bottomleft"></image>
+<image src="../../images/2.jpg" mode="bottomright"></image>
