@@ -1,0 +1,5 @@
+<!--miniprogram/pages/scroll-view/scroll-view.wxml-->
+<scroll-view scroll-y="true" class="scroll-view" enhanced="true" bounces="true" lower-threshold="50" bindscrolltolower="scroll_lower">
+  <image src="../../images/1.jpg" class="images"></image>
+  <image src="../../images/2.jpg" class="images"></image>
+</scroll-view>

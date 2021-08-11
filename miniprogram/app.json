@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/scroll-view/scroll-view",
     "pages/movable-area/movable-area",
     "pages/rich-text/rich-text",
     "pages/progress/progress",

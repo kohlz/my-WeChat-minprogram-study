@@ -1,0 +1,10 @@
+/* miniprogram/pages/scroll-view/scroll-view.wxss */
+.images {
+  height: 600rpx;
+  width: 900rpx;
+}
+
+.scroll-view {
+  height: 600rpx;
+  width: 900rpx;
+}
