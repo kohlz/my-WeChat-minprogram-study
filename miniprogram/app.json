@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/form/form",
     "pages/video/video",
     "pages/image/image",
     "pages/camera/camera",

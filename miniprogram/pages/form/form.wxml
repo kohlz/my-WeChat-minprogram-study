@@ -1,0 +1,8 @@
+<!--miniprogram/pages/form/form.wxml-->
+<button size="default" type="primary" plain="true"  hover-class="button-hover" hover-start-time="50" hover-stay-time="1000">hello world</button>
+<button size="default" type="primary" plain="true" hover-class="none" hover-start-time="50" hover-stay-time="70">hello world</button>
+<button size="default" type="warn" plain="true" loading="true">hello world</button>
+<button size="mini" type="warn" loading="true">hello world</button>
+<button size="default" type="warn" >hello world</button>
+<button size="default" type="primary">hello world</button>
+<button size="mini" type="default">hello world</button>

@@ -1,0 +1,4 @@
+/* miniprogram/pages/form/form.wxss */
+.button-hover {
+  color: red;
+}
