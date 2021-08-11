@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/audio/audio",
     "pages/swiper/swiper",
     "pages/scroll-view/scroll-view",
     "pages/movable-area/movable-area",
