@@ -1,0 +1,2 @@
+<!--miniprogram/pages/camera/camera.wxml-->
+<camera resolution="low" device-position="front" flash="on" frame-size="medium"></camera>
