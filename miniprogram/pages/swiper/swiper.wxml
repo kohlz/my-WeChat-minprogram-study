@@ -1,0 +1,5 @@
+<!--miniprogram/pages/swiper/swiper.wxml-->
+<swiper autoplay="true" interval="1000" indicator-dots="true" indiacator-color="rgba(5,5,5,1)" indicator-active-color="#FFF000" circular="true" duration="500">
+  <swiper-item><view><image src="../../images/1.jpg" class="image"></image></view></swiper-item>
+  <swiper-item><view><image src="../../images/2.jpg" class="image"></image></view></swiper-item>
+</swiper>
