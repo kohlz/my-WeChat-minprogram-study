@@ -6,3 +6,32 @@
 <button size="default" type="warn" >hello world</button>
 <button size="default" type="primary">hello world</button>
 <button size="mini" type="default">hello world</button>
+
+<checkbox value="country" checked>CN</checkbox>
+<checkbox value="country" >US</checkbox>
+<checkbox value="country" color="FFFAAA">UK</checkbox>
+
+<radio-group bindchange="radioChange">
+  <label wx:for="{{items}}" wx:key="{{item.value}}">
+    <radio value="{{item.value}}" checked="true"/>
+     <view>{{item.name}}</view>
+  </label>
+</radio-group>
+
+<picker mode="region" value="{{region}}" bindchange="bindRegionChange"><view>当前选择：{{region[0]}}, {{region[1]}}, {{region[2]}}</view></picker>
+<picker mode="date" value="{{date}}" bindchange="bindDateChange"><view>当前选择：{{date}}</view></picker>
+<picker mode="time" value="{{time}}" bindchange="bindTimeChange"><view>当前选择: {{time}}</view></picker>
+
+<switch check="true" type="switch">a</switch>
+<switch check="true" type="checkbox" color="AAAFFF">b</switch>
+
+<slider min="20" max="100" step="10" value="40" block-size="20" show-value="true"></slider>
+<slider min="0" max="200" step="1" value="0" block-suze="28" show-value="true"></slider>
+
+<input type="text" placeholder="text" placeholder-class="placeHolder" maxlength="20" focus="true" adjust-position="true" cursor="8" hold-keyboard="true" confirm-tpye="send"/>
+<input type="number" placeholder="number" placeholder-class="placeHolder" maxlength="20" adjust-position="true" cursor="16" confirm-type="next"/>
+<input type="idcard" placeholder="id" placeholder-class="id" confirm-type="done"/>
+<input type="password" placeholder="password" placeholder-class="pass" maxlength="10"/>
+<input type="digit" placeholder="digit" placeholder-class="placeHolder" maxlength="8"/>
+
+<textarea placeholder="text" placeholder-style="textarea" maxlength="10" fixed="true" show-confirm-bar="true" ></textarea>

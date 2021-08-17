@@ -2,3 +2,18 @@
 .button-hover {
   color: red;
 }
+
+.placeHolder {
+  color: lightblue;
+}
+
+.id {
+  color: lightgreen;
+}
+
+textarea {
+  width: 400rpx;
+  height: 400rpx;
+  background-color: grey;
+  border-radius: 40rpx;
+}
