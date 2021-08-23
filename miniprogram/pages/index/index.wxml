@@ -1,0 +1,13 @@
+<!--pages/index/index.wxml-->
+<button type="default" size="mini" bindtap="buttonToCamera">点击跳转至camera</button>
+<button type="primary" size="mini" bindtap="buttonToAudio">点击跳转至audio</button>
+<button type="warn" size="mini" bindtap="buttonToForm">点击跳转至form</button>
+<button type="default" size="default" bindtap="buttonToIcon">点击跳转至icon</button>
+<button type="primary" size="default" bindtap="buttonToImage">点击跳转至image</button>
+<button type="warn" size="default" bindtap="buttonToMovableArea">点击跳转至movable-area</button>
+<button type="default" size="mini" bindtap="buttonToProgress">点击跳转至progress</button>
+<button type="primary" size="mini" bindtap="buttonToRichText">点击跳转至rich-text</button>
+<button type="warn" size="mini" bindtap="buttonToScrollView">点击跳转至scroll-view</button>
+<button type="default" size="default" bindtap="buttonToSwiper">点击跳转至swiper</button>
+<button type="primary" size="mini" bindtap="buttonToText">点击跳转至text</button>
+<button type="warn" size="default" bindtap="buttonToVideo">点击跳转至video</button>
